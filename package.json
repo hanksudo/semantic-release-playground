@@ -3,7 +3,7 @@
   "name": "semantic-release-playground",
   "plugins": [
     "@semantic-release/git",
-    "@semantic-release/commit-analyzer",
+    "@romap0/semantic-release-unsquash",
     "@semantic-release/changelog",
     "@semantic-release/release-notes-generator"
   ]
