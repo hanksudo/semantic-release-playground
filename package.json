@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "semantic-release-playground",
   "plugins": [
     "@semantic-release/git",
