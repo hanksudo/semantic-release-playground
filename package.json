@@ -1,4 +1,9 @@
 {
   "name": "semantic-release-playground",
-  "branches": ["main"]
+  "plugins": [
+    "@semantic-release/git",
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/changelog",
+    "@semantic-release/release-notes-generator"
+  ]
 }
