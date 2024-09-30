@@ -24,23 +24,8 @@ jobs:
         id: semantic
         with:
           extra_plugins: |
-            [
-              "@semantic-release/changelog",
-              [
-                "@semantic-release/exec",
-                {}
-              ],
-              [
-                "@semantic-release/git",
-                {
-                  "assets": [
-                    "Cargo.toml",
-                    "CHANGELOG.md"
-                  ],
-                  "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-                }
-              ]
-            ]
+            "@semantic-release/changelog"
+            "@semantic-release/git"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
