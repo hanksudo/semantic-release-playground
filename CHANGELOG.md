@@ -1,3 +1,14 @@
+## [1.3.9](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.8...v1.3.9) (2024-09-30)
+
+
+### Bug Fixes
+
+* ci ([1d74e66](https://github.com/hanksudo/semantic-release-playground/commit/1d74e66511b3d3ede2d2b1c21e3e6e1005fd5bc3))
+* ci2 ([04c2a29](https://github.com/hanksudo/semantic-release-playground/commit/04c2a2941e13c1e81dbd1621770eb237942f3587))
+* ci3 ([741c18f](https://github.com/hanksudo/semantic-release-playground/commit/741c18f85e2e7d4c0713b03f8b306a0334897b21))
+* test ([42f5cf8](https://github.com/hanksudo/semantic-release-playground/commit/42f5cf8cd33a8d9c9ceb393c6acf18113ecc0b0a))
+* test2222 ([7309d3e](https://github.com/hanksudo/semantic-release-playground/commit/7309d3ed1e644754a2c68a2f6ea9b4d4875276f3))
+
 ## [1.3.4](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.3...v1.3.4) (2024-09-30)
 
 
