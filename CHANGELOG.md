@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.3...v1.3.4) (2024-09-30)
+
+
+### Bug Fixes
+
+* empty ([ad17515](https://github.com/hanksudo/semantic-release-playground/commit/ad175153537c8061e646f683dd100e8c5ff0ab83))
+
 ## [1.3.3](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.2...v1.3.3) (2024-09-30)
 
 
