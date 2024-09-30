@@ -27,7 +27,7 @@ jobs:
 
       - name: Test push file
         run: |
-          touch abc
+          echo $(date +%s) > abc
           git add abc
           git commit -m 'add abc'
           git push -f origin main
