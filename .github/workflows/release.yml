@@ -20,17 +20,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Test push file
         run: |
           touch abc
           git add abc
           git commit -m 'add abc'
           git push -f origin main
-
-      # - name: Configure Git User
-      #   run: |
-      #     git config --global user.name "github-actions[bot]"
-      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       # - name: Semantic Release
       #   uses: cycjimmy/semantic-release-action@v4
