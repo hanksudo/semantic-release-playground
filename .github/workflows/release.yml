@@ -4,10 +4,9 @@ on:
     branches:
       - main
 
-# permissions:
-# contents: read # for checkout
+permissions:
+  contents: read # for checkout
 
-permissions: write-all
 jobs:
   release:
     runs-on: ubuntu-latest
