@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # to be able to publish a GitHub release
+      pull-requests: write # to be able to comment on pull requests
     steps:
       - name: Checkout
         uses: actions/checkout@v4
