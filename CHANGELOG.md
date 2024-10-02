@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.10...v1.4.0) (2024-10-02)
+
+
+### Features
+
+* new feature ([#10](https://github.com/hanksudo/semantic-release-playground/issues/10)) ([6245eb4](https://github.com/hanksudo/semantic-release-playground/commit/6245eb4ad0cf0fa562d7c742e8c8196d89323955))
+* new feature ([#9](https://github.com/hanksudo/semantic-release-playground/issues/9)) ([9b8cbed](https://github.com/hanksudo/semantic-release-playground/commit/9b8cbed62b05056c976366ae3335e5892a7a5bad))
+
 ## [1.3.10](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.9...v1.3.10) (2024-09-30)
 
 
