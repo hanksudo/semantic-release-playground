@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/hanksudo/semantic-release-playground/compare/v1.4.0...v1.4.1) (2024-10-02)
+
+
+### Bug Fixes
+
+* ci ([#11](https://github.com/hanksudo/semantic-release-playground/issues/11)) ([accf493](https://github.com/hanksudo/semantic-release-playground/commit/accf4930303cef4d3e8e0fd209acded92dded579))
+
 # [1.4.0](https://github.com/hanksudo/semantic-release-playground/compare/v1.3.10...v1.4.0) (2024-10-02)
 
 
